@@ -1,0 +1,6 @@
+[submodule "login"]
+	path = login
+	url = https://github.com/VanChien411/login.git
+[submodule "template/matx-react"]
+	path = template/matx-react
+	url = https://github.com/VanChien411/template-matx-react.git
